@@ -1,5 +1,5 @@
 ## Olá, seja bem vindo 
-- 🔭 Hoje trabalho como Técnico em Informática Jr
+- 🔭 Trabalho como Técnico em Informática Jr
 - 🌱 Estudando Análise e desenvolvimento de sistemas
 <div> 
 
